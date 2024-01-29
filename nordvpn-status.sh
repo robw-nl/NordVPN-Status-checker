@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # This scripts checks the status of your NordVPn connection and,
-# additionally, also checks your internet connection.
+# additionally, also checks your internet connection. This does
+# require that the (official repos) package 'speedtest-cli' is installed
 
 # Initialize variables
 required_command=""
