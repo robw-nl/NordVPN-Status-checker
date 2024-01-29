@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This scripts checks the status of your NordVPn connection and,
+# additionally, also checks your internet connection.
+
 # Initialize variables
 required_command=""
 vpn_status=""
